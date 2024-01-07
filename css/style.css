@@ -7,12 +7,20 @@
     height: 110px;
     display: block;
 }
+.py-10{
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
 .mx-auto{
     margin: 0 auto;
 }
 .mx-10{
     margin-left: 10px;
     margin-right: 10px;
+}
+.mx-5{
+    margin-left: 5px;
+    margin-right: 5px;
 }
 .my-30{
     margin-top: 30px;
@@ -66,4 +74,10 @@ movie-title{
     width: 600px;
     height: 300px;
     font-size: 0;
+}
+.sns{
+    font-size: 0;
+}
+.bg-sns{
+    background-color: #f3f3f3;
 }
