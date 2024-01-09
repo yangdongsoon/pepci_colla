@@ -1,0 +1,21 @@
+@charset "utf-8";
+@media screen and (max-width: 400px) {
+    .cf{
+        width: 100vw;
+        height: auto
+    }
+    .cf img {
+        width: 100%;
+    }
+    .movie-poster{
+        width:100vw;
+        height: auto;
+    }
+    .movie-poster img{
+        width: 200px;
+
+    }
+    #footer{
+        margin-bottom: 30px;
+    }
+}
